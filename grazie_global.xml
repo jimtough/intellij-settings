@@ -1,0 +1,9 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="POSSESSIVE_APOSTROPHE" />
+      </set>
+    </option>
+  </component>
+</application>
