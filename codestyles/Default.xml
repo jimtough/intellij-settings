@@ -4,6 +4,7 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </value>
   </option>
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <JavaCodeStyleSettings>
     <option name="GENERATE_FINAL_LOCALS" value="true" />
     <option name="GENERATE_FINAL_PARAMETERS" value="true" />
